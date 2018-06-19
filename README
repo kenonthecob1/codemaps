@@ -1,0 +1,7 @@
+By Kenny Wang, Forest Elliot and Lukas Griffen
+Feb 16th, 2018
+
+Takes data about coding events from meetups.com and displays them on google maps.
+Made in 48 hour hackathon at Case Western Reserve Univeristy.
+Used to learn some android development and web scraping.
+Uses jsoup and google maps api. 
